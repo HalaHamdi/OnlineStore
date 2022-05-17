@@ -3,18 +3,20 @@ This is an online store that allows our customer to shop online.
 Other users can use this flutter-based mobile app ,such as the deliver man ,Sales man and our HR team.
 
 ## HR view
-![WhatsApp Image 2022-05-17 at 11 11 12 PM (1)](https://user-images.githubusercontent.com/76243256/168918998-3170a64b-8e3b-487d-bed5-58eb6be8f640.jpeg)
-![WhatsApp Image 2022-05-17 at 11 11 12 PM (2)](https://user-images.githubusercontent.com/76243256/168919019-c70a0b08-2c82-417f-8857-9c95da525af6.jpeg)
-![WhatsApp Image 2022-05-17 at 11 11 12 PM (3)](https://user-images.githubusercontent.com/76243256/168919066-506a4eb6-6b9a-4f20-b614-4b583a6bf361.jpeg)
-![WhatsApp Image 2022-05-17 at 11 11 12 PM (4)](https://user-images.githubusercontent.com/76243256/168919261-cc157e92-80ae-4433-92bc-fbd89c0c79e0.jpeg)
-![WhatsApp Image 2022-05-17 at 11 11 12 PM (5)](https://user-images.githubusercontent.com/76243256/168919284-308c875f-f3ee-41a8-a93c-0cdf6aa47c99.jpeg)
-![WhatsApp Image 2022-05-17 at 11 11 12 PM (6)](https://user-images.githubusercontent.com/76243256/168919350-04dbfc8f-bc80-42cd-97c4-36d91039ebad.jpeg)
+
 ![WhatsApp Image 2022-05-17 at 11 11 12 PM (7)](https://user-images.githubusercontent.com/76243256/168919372-60f7198d-b0d5-4698-a738-e94f317cfb15.jpeg)
 ![WhatsApp Image 2022-05-17 at 11 11 12 PM (8)](https://user-images.githubusercontent.com/76243256/168919388-9fb27eb3-19a3-4d72-84be-3e6938e1db43.jpeg)
 ![WhatsApp Image 2022-05-17 at 11 11 12 PM (9)](https://user-images.githubusercontent.com/76243256/168919412-4d50f174-ba87-4fd2-a4ae-e477024b069f.jpeg)
 ![WhatsApp Image 2022-05-17 at 11 11 12 PM (10)](https://user-images.githubusercontent.com/76243256/168919429-135d25ef-8c59-40ee-a960-4291e4d13f99.jpeg)
 ![WhatsApp Image 2022-05-17 at 11 11 12 PM (11)](https://user-images.githubusercontent.com/76243256/168919452-3cbd3774-f5da-48f8-b370-064bedfe2152.jpeg)
 ![WhatsApp Image 2022-05-17 at 11 11 12 PM](https://user-images.githubusercontent.com/76243256/168919475-168b1aa5-0389-46ce-9e4a-e4304827c839.jpeg)
+
+![WhatsApp Image 2022-05-17 at 11 11 12 PM (1)](https://user-images.githubusercontent.com/76243256/168918998-3170a64b-8e3b-487d-bed5-58eb6be8f640.jpeg)
+![WhatsApp Image 2022-05-17 at 11 11 12 PM (2)](https://user-images.githubusercontent.com/76243256/168919019-c70a0b08-2c82-417f-8857-9c95da525af6.jpeg)
+![WhatsApp Image 2022-05-17 at 11 11 12 PM (3)](https://user-images.githubusercontent.com/76243256/168919066-506a4eb6-6b9a-4f20-b614-4b583a6bf361.jpeg)
+![WhatsApp Image 2022-05-17 at 11 11 12 PM (4)](https://user-images.githubusercontent.com/76243256/168919261-cc157e92-80ae-4433-92bc-fbd89c0c79e0.jpeg)
+![WhatsApp Image 2022-05-17 at 11 11 12 PM (5)](https://user-images.githubusercontent.com/76243256/168919284-308c875f-f3ee-41a8-a93c-0cdf6aa47c99.jpeg)
+![WhatsApp Image 2022-05-17 at 11 11 12 PM (6)](https://user-images.githubusercontent.com/76243256/168919350-04dbfc8f-bc80-42cd-97c4-36d91039ebad.jpeg)
 
 
 ## Customer view
